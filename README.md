@@ -18,8 +18,4 @@ só isso msm kkj.
 - Kesvi Painel
 > Um painel de consultas inspirado em Kiny-painel e Snuking
 
-## Hobbies
-- Programar e aprender
-> Eu adoro aprender programando. Algumas vezes perco o sono pensando em codigos.  
-- Andar
-> Andar, correr, etc... Eu gosto tbm :)
+
