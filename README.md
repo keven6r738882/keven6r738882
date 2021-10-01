@@ -21,7 +21,8 @@ só isso msm kkj.
 ## Repositórios
 - Kesvi Painel
 > **Um painel de consultas inspirado em Kiny-painel**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keven6r738882&repo=kesvipainel)](https://github.com/keven6r738882/kesvipainel)
+
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=keven6r738882&repo=kesvipainel)](https://github.com/keven6r738882/kesvipainel)
 
 
 
