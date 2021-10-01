@@ -11,7 +11,8 @@ Não tenho muito pra falar.<br>
 python<br>
 parcialmente javascript<br>
 **-------------------------**<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
@@ -20,5 +21,9 @@ só isso msm kkj.
 ## Repositórios
 - Kesvi Painel
 > Um painel de consultas inspirado em Kiny-painel e Snuking
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keven6r738882&repo=kesvipainel)](https://github.com/keven6r738882/kesvipainel)
+
+
+
 
 
